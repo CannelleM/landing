@@ -1,0 +1,27 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color:#003049;
+  color: white;
+}
+
+.links {
+  display: inline-block;
+  padding: 0px 20px;
+  font-size: 20px;
+}
+
+.links i {
+  font-size: 40px;
+  color: #F900BF;
+}
+
+.links p {
+  font-size: 14px;
+  color: white;
+}
+
+.links p > i {
+  font-size: 14px;
+  color: white;
+}
